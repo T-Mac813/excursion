@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    text-align: center;
 }
 
 h1 {
@@ -8,4 +9,9 @@ h1 {
     font-size: 50px;
     color: white;
     text-align: center;
+}
+
+.link_Ex {
+ color:aquamarine;
+ font-size: 16px;
 }
